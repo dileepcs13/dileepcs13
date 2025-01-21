@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ETL Testing, Mainframe Testing.<br>👯 I’m looking to collaborate on Automation Testing.<br>🤝 I’m looking for help with Advanced JavaScript, Java for automation scripting.<br>🌱 I’m currently learning Cypress, Java, JavaScript, and ServiceNow workflows.<br>💬 Ask me about ETL testing, Mainframe technologies<br>⚡ Fun fact: biggest team I have worked with - team of 30!!
+🔭 I’m currently working on ETL Testing, Mainframe Testing.<br>👯 I’m looking to collaborate on Automation Testing.<br>🤝 I’m looking for help with Advanced JavaScript, Java for automation scripting.<br>🌱 I’m currently learning Cypress, Java, JavaScript, and ServiceNow workflows.<br>💬 Ask me about ETL testing, Mainframe technologies, API Testing, UI Testing.<br>⚡ Fun fact: biggest team I have worked with - team of 30!!
 
 
 ## 🌐 Socials:
